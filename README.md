@@ -9,6 +9,7 @@ Each skill is a folder with a `SKILL.md`. This works with Claude Code, Cursor, C
 | Skill | What it does |
 | --- | --- |
 | [josh-design-principles](skills/josh-design-principles/SKILL.md) | My design laws for building and reviewing UI. Simplicity first. Design system before code. |
+| [git-cleanup](skills/git-cleanup/SKILL.md) | Tidy a repo. Prune merged branches, drop stale stashes, update main. Asks before risky deletes. |
 
 ## Install
 
